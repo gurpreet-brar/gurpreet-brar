@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Gurpreet Brar
 
-> I'm a passionate **full-stack web developer** who recently completed an intensive software development bootcamp. I love turning ideas into interactive, user-friendly web applications that are both functional and accessible. 
+<small> I'm a passionate **full-stack web developer** who recently completed an intensive software development bootcamp. I love turning ideas into interactive, user-friendly web applications that are both functional and accessible. </small>
 
 > I've developed strong expertise in:
 
