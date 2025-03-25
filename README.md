@@ -6,8 +6,7 @@ I'm a passionate **full-stack web developer** who recently completed an intensiv
 
 I've developed strong expertise in:
 
-**HTML5**, **CSS3**, **JavaScript**, **React**, **Node.js**, **Express**, and **MySQL**.
-
+*HTML5*, **CSS3**, **JavaScript**, **React**, **Node.js**, **Express**, and **MySQL**.
 
 My background in **Quality Assurance** combined with my recent education in **software development** enables me to think critically, test thoroughly, and build applications using a **user-centric approach**. I strive to write clean, maintainable code and continuously improve my skills through real-world projects and collaboration.
 
@@ -20,9 +19,10 @@ My background in **Quality Assurance** combined with my recent education in **so
 - 🔍 **GraphQL**
 
 
+
 **Get in Touch** 
 
- 📢  Feel free to reach out on LinkedIn – [Gurpreet Brar](https://www.linkedin.com/in/gurpree-kaur-brar/)
+📢  Feel free to reach out on LinkedIn – [Gurpreet Brar](https://www.linkedin.com/in/gurpree-kaur-brar/)
 
 
 
