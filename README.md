@@ -27,27 +27,25 @@ My background in **Quality Assurance** combined with my recent education in **so
 
 ## 💡 Capstone Project: Hey Local
 
-**Hey Local** is a full-stack event discovery web application designed to help users find local events happening around them using the **Google Maps API**. The app focuses on making community engagement easier and more intuitive by displaying nearby events on an interactive map.
+**Hey Local** is a full-stack event discovery web application designed to help users find local events happening around them. The app focuses on making community engagement easier and more intuitive by displaying nearby events and allowing users to create events.
 
 ### 🔍 Features Implemented:
-- 🗘️ Interactive event map with location pins  
 - 📍 Google Maps API integration  
 - 🔎 Event filtering based on categories  
 - 🗖️ Display of event details like name, date, location, and description
+- 🗂️ MySQL database to store event details.
 
 ### 🛠️ Tech Stack:
-**React**, **Node.js**, **Express.js**, **MySQL**, **Google Maps API**
+**React**, **Node.js**, **Express.js**, **MySQL**, **Google Maps API**, **Cloudinary**
 
 > Future enhancements will include user sign-up, chat features, and personalized recommendations.
 
-🔗 [GitHub Repo](https://github.com/yourusername/hey-local) *(Replace with your repo link)*
 
 ---
 
 ## 📢 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username/)  
-📧 Email: your.email@example.com *(optional)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)][(https://www.linkedin.com/in/gurpreet-kaur-brar/)]
 
 ---
 
