@@ -4,6 +4,10 @@
 
 I'm a passionate **full-stack web developer** who recently completed an intensive software development bootcamp. I love turning ideas into interactive, user-friendly web applications that are both functional and accessible. 
 
+My background in **Quality Assurance** combined with my recent education in **software development** enables me to think critically, test thoroughly, and build applications using a **user-centric approach**. I strive to write clean, maintainable code and continuously improve my skills through real-world projects and collaboration.
+
+**Tech Stack**
+
 I've developed strong expertise in:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -15,8 +19,7 @@ I've developed strong expertise in:
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-My background in **Quality Assurance** combined with my recent education in **software development** enables me to think critically, test thoroughly, and build applications using a **user-centric approach**. I strive to write clean, maintainable code and continuously improve my skills through real-world projects and collaboration.
-
+**Currently Learning**
 
 💡 I'm actively expanding my skills by learning:
 
