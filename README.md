@@ -45,7 +45,7 @@ My background in **Quality Assurance** combined with my recent education in **so
 
 ## 📢 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)][(https://www.linkedin.com/in/gurpreet-kaur-brar/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)(https://www.linkedin.com/in/gurpreet-kaur-brar/)]
 
 
 
