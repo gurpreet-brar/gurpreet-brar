@@ -1,4 +1,4 @@
-tech stack images## 👋 Hi, I'm Gurpreet Brar
+## 👋 Hi, I'm Gurpreet Brar
 
 **About me**
 
