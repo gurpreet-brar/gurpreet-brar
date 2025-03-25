@@ -47,9 +47,7 @@ My background in **Quality Assurance** combined with my recent education in **so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)][(https://www.linkedin.com/in/gurpreet-kaur-brar/)]
 
----
 
-> "First, solve the problem. Then, write the code." – John Johnson
 
 
 
