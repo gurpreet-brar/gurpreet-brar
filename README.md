@@ -29,13 +29,13 @@ My background in **Quality Assurance** combined with my recent education in **so
 
 **Hey Local** is a full-stack event discovery web application designed to help users find local events happening around them. The app focuses on making community engagement easier and more intuitive by displaying nearby events and allowing users to create events.
 
-### 🔍 Features Implemented:
+#### 🔍 Features Implemented:
 - 📍 Google Maps API integration  
 - 🔎 Event filtering based on categories  
 - 🗖️ Display of event details like name, date, location, and description
 - 🗂️ MySQL database to store event details.
 
-### 🛠️ Tech Stack:
+#### 🛠️ Tech Stack:
 **React**, **Node.js**, **Express.js**, **MySQL**, **Google Maps API**, **Cloudinary**
 
 > Future enhancements will include user sign-up, chat features, and personalized recommendations.
@@ -45,7 +45,8 @@ My background in **Quality Assurance** combined with my recent education in **so
 
 ## 📢 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)(https://www.linkedin.com/in/gurpreet-kaur-brar/)]
+[Connect with me on LinkedIn – Gurpreet Brar](https://www.linkedin.com/in/gurpree-kaur-brar/)
+
 
 
 
