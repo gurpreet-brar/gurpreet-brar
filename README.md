@@ -6,7 +6,7 @@ I've developed strong expertise in:
 
 **HTML5**, **CSS3**, **JavaScript**, **React**, **Node.js**, **Express**, and **MySQL**.
 
----
+--
 
 ## ✨ Currently Learning
 
@@ -17,13 +17,13 @@ I'm actively expanding my skills by learning:
 - 🚀 **Next.js**
 - 🔍 **GraphQL**
 
----
+--
 
 ## 🧐 About Me
 
 My background in **Quality Assurance** combined with my recent education in **software development** enables me to think critically, test thoroughly, and build applications using a **user-centric approach**. I strive to write clean, maintainable code and continuously improve my skills through real-world projects and collaboration.
 
----
+--
 
 ## 💡 Capstone Project: Hey Local
 
@@ -41,11 +41,9 @@ My background in **Quality Assurance** combined with my recent education in **so
 > Future enhancements will include user sign-up, chat features, and personalized recommendations.
 
 
----
+--
 
-## 📢 Connect with Me
-
-Connect with me on LinkedIn – [Gurpreet Brar](https://www.linkedin.com/in/gurpree-kaur-brar/)
+ 📢  Feel free to reach out on LinkedIn – [Gurpreet Brar](https://www.linkedin.com/in/gurpree-kaur-brar/)
 
 
 
