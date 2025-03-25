@@ -45,7 +45,7 @@ My background in **Quality Assurance** combined with my recent education in **so
 
 ## 📢 Connect with Me
 
-[Connect with me on LinkedIn – Gurpreet Brar](https://www.linkedin.com/in/gurpree-kaur-brar/)
+Connect with me on LinkedIn – [Gurpreet Brar](https://www.linkedin.com/in/gurpree-kaur-brar/)
 
 
 
